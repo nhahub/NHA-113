@@ -198,12 +198,6 @@ http://localhost:5000
 
 ---
 
-## المساهمون | Contributors
-
-- **[اسم الطالب]** - Team Leader / ML Developer
-- **[اسم الطالب]** - Backend Developer
-- **[اسم الطالب]** - Frontend Developer
-- **[اسم الطالب]** - Data Analyst
 
 ---
 
